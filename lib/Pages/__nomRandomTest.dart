@@ -1,0 +1,4 @@
+enum nomRandomTest{
+  PLAY,
+  PAUSE
+}
